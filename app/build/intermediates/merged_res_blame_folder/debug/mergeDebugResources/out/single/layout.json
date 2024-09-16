@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.fetch.app-mergeDebugResources-51:/layout/list_item.xml",
+        "source": "com.example.fetch.app-main-54:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.fetch.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.example.fetch.app-main-54:/layout/activity_main.xml"
+    }
+]
