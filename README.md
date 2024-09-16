@@ -47,16 +47,3 @@ The app fetches data from the following public API:
 
 
 
-## Project Structure
-
-- **MainActivity.kt**: The main entry point of the app. This class initializes the RecyclerView and observes the data from the ViewModel.
-- **ItemViewModel.kt**: Handles the fetching of data from the repository and provides it to the MainActivity using LiveData.
-- **ItemRepository.kt**: Handles the network call to the Fetch API using Retrofit.
-- **GroupedItemAdapter.kt**: The adapter for RecyclerView that groups the items by `listId`. 
-- **list_item.xml**: The layout for individual items displayed in the list.
-- **activity_main.xml**: The main layout that contains the RecyclerView.
-
-## API
-The app fetches data from the following public API:
-- [Fetch Hiring API](https://fetch-hiring.s3.amazonaws.com/hiring.json)
-
