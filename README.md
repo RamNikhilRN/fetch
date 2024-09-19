@@ -29,7 +29,8 @@ This Android app retrieves and displays a list of items grouped by `listId`. The
 - The remaining items will be sorted first by `listId` and then by `name`.
 
 ### Sample Output:
-![image](https://github.com/user-attachments/assets/736d29a7-7c2c-4729-a455-0fa08a35a8b8)
+![image](https://github.com/user-attachments/assets/5738b0ce-1acb-40ad-9b79-2ae39c1376c1)
+
 
 
 ## Project Structure
